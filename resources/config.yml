@@ -4,11 +4,11 @@ reward-message: "§7(§b§l!§r§7) §r§aCongrats! You have earned §b${reward}
 
 #These are the blocks the player will be rewarded for, when mined. Format:
 #itemid: price
-56: 150
-14: 10
-15: 50
-16: 30
-21: 20
-153: 60
-129: 200
+56: 90
+14: 5
+15: 40
+16: 20
+21: 10
+153: 30
+129: 100
 ...
