@@ -1,7 +1,7 @@
 name: MiningMoney
 main: Muqsit\Main
-api: [1.13.1, 2.0.0]
+api: [3.0.0]
 version: 1.0
 permissions:
   miningmoney.allow:
-    default: op
+    default: true
